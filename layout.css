@@ -1,0 +1,74 @@
+.mother{
+    background-color: #7fe1ff;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+}
+.sister{
+    background-color: rgb(0, 255, 242);
+    height:400px;
+    width:800px;
+    margin:100px;
+}
+.Child{
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+}
+.first{
+    float:left;
+    background-color: white;
+    
+    
+    }
+.second{
+    float: right;
+    background-color: rgb(0, 247, 255);
+}
+/*twitter logo*/
+.logo{
+    padding-top: 40px;
+    padding-left: 180px;
+    padding-right: 200px;   
+}
+.puppy{
+    height: 250px;
+    width: 250px;
+    padding-left: 50px;
+}
+.write{
+    border: 0px;
+    box-shadow: 1px 1px 1px gray;
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 5px;
+    color:lightgrey;
+}
+.forgot{
+    margin-left: 100px;
+    padding-top: 10px;
+}
+h2{
+    text-align: center;
+}
+button{
+    background-color: #7fe1ff;
+    border:0px;
+    color: white;
+    width: 200px;
+    padding: 10px 60px;
+    margin-left: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+a{
+    display: block; /* Make block type */
+    text-align: center; /* Center align its text*/
+}
+form{
+    display:block;
+    justify-content: center;
+  }

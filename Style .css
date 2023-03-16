@@ -1,0 +1,10 @@
+.box{
+    boarder
+}
+#{
+    height:200px;
+    width: 200px;
+    border-top:10px dotted red;
+    border-bottom: 5px blue dashed;
+    border-left: yellow 10px solid;
+}
